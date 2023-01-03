@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-scss",
+  "name": "Language Basics Scss",
+  "description": "Provides syntax highlighting and bracket matching in Scss files.",
+  "languages": [
+    {
+      "id": "scss",
+      "extensions": [".scss"],
+      "tokenize": "src/tokenizeScss.js"
+    }
+  ]
+}
