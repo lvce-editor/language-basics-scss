@@ -5,8 +5,11 @@
   "languages": [
     {
       "id": "scss",
-      "extensions": [".scss"],
+      "extensions": [
+        ".scss"
+      ],
       "tokenize": "src/tokenizeScss.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-scss"
 }
