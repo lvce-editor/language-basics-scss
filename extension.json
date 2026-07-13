@@ -5,9 +5,7 @@
   "languages": [
     {
       "id": "scss",
-      "extensions": [
-        ".scss"
-      ],
+      "extensions": [".scss"],
       "tokenize": "src/tokenizeScss.js"
     }
   ],
