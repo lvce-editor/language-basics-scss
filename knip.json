@@ -1,0 +1,9 @@
+{
+  "$schema": "https://unpkg.com/knip@6/schema.json",
+  "entry": [
+    "src/tokenizeScss.js",
+    "scripts/build.js",
+    "scripts/build-static.js"
+  ],
+  "project": ["*.js", "scripts/*.js", "src/**/*.js"]
+}
